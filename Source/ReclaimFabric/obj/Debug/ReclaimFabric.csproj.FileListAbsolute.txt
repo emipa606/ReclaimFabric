@@ -1,6 +1,0 @@
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\1.1\Assemblies\ReclaimFabric.dll
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\1.1\Assemblies\ReclaimFabric.pdb
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\Source\ReclaimFabric\obj\Debug\ReclaimFabric.csprojAssemblyReference.cache
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\Source\ReclaimFabric\obj\Debug\ReclaimFabric.csproj.CoreCompileInputs.cache
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\Source\ReclaimFabric\obj\Debug\ReclaimFabric.dll
-E:\Steam\steamapps\common\RimWorld\Mods\ReclaimFabric\Source\ReclaimFabric\obj\Debug\ReclaimFabric.pdb
